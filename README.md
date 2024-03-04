@@ -26,19 +26,19 @@ Weatherify is a web application that provides users with weather information and
 
 ## Setup
 
-1. Clone the repository:
+1. Clone the repository.
 
 
-2. Install dependencies:
+2. Install dependencies.
 
 
 3. Make API call.
 
 
-4. Run the Flask app:
+4. Run the Flask app.
 
 
-5. Access the application in your web browser:
+5. Access the application in your web browser.
 
 
 
