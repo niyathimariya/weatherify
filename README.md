@@ -49,6 +49,10 @@ Weatherify is a web application that provides users with weather information and
 - Natural Language Processing Toolkit for the chatbot functionality.
 - [Bootstrap](https://getbootstrap.com/) for the responsive design.
 
+##Loom Video
+- https://www.loom.com/share/8c084cc77829475fb43d6b214e4ef9e3?sid=f8fc2e1d-3063-4d18-a730-d64f784cbd10
+
+
 ![Weatherify App](https://github.com/niyathimariya/weatherify/blob/main/interface_images/weatherify-1.png)
 ![Weatherify App](https://github.com/niyathimariya/weatherify/blob/main/interface_images/weatherify-2.png)
 
